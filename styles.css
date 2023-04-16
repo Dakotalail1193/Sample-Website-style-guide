@@ -1,0 +1,92 @@
+body{
+    font-family: Oswald;
+  }
+  .container{
+    border: 2px, solid, gray;
+    padding:10px;
+    margin: 10px;
+    align-items:center;
+
+  }
+  .color-container {
+    width:100%;
+    border:1px solid black;
+  }
+  
+  div {
+    display:block;
+    
+    
+  }
+  
+  .color-panel {
+    display:inline-block;
+    width:40%;
+    height:13%;
+    text-align:center;
+    margin: 20px;
+    font-size:20px
+    
+  }
+  .teal{
+    background-color:#008080;
+    color:#fff;
+    border:2px solid black;
+    }
+  .dark-orange{
+    background-color:#FF8C00;
+    color:#fff;
+    border:2px solid black;
+  }
+  .white{
+    background-color:#FFFFFF;
+    color:#000;
+    border:2px solid black;
+  }
+  .lightgray{
+    background-color: #D3D3D3;
+    color:#fff;
+    border:2px solid black;
+  }
+  
+  .font-container{
+    width:100%;
+    border:1px solid black;
+  
+  }
+  .font-panel{
+    width:20%;
+    display:inline-block;
+    margin-left: 20px;
+    margin-right: 60px;
+
+  }  
+  .font-label{
+    font-size: 25px;
+    text-decoration:underline;
+  }
+  .chivo-mono{
+    font-family:'Chivo Mono';
+  }
+  .poppins{
+    font-family:Poppins;
+  }
+  .oswald{
+    font-family:Oswald;
+  }
+  
+  .bold{
+    font-weight: 700;
+  }
+  .italic{
+    font-style:italic;
+  }
+  p {
+    display:block;
+    margin: 10;
+  }
+  .text-container{
+    width:100%;
+    border:1px solid black;
+    margin-top: 10px;
+  }
